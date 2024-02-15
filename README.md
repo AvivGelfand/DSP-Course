@@ -4,3 +4,6 @@ Z. Chen, J. Yu, Y. Zhu, Y. Chen and M. Li, "[D3: Abnormal driving behaviors dete
 ## Data Set
 Wawage, Pawan (2022), “[Driver Behavior Detection Using Smartphone - Dataset](https://data.mendeley.com/datasets/9vr83n7z5j/2)”, Mendeley Data, V2, doi: 10.17632/9vr83n7z5j.2
 
+## Other Useful Sources
+10 min video about accelerometer data interpretation 
+https://youtu.be/MAR4yvxQpzc?feature=shared
